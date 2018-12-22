@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppSaveSettings>
+  <IsSerialPortEnabled>true</IsSerialPortEnabled>
+  <ReceiverName>Receiver1</ReceiverName>
+  <Description />
+  <PortName>COM5</PortName>
+  <BaudRate>115200</BaudRate>
+  <DataBits>8</DataBits>
+  <StopBits>One</StopBits>
+  <Parity>None</Parity>
+  <Handshake>None</Handshake>
+  <OutputDataDirectory>E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\</OutputDataDirectory>
+</AppSaveSettings>

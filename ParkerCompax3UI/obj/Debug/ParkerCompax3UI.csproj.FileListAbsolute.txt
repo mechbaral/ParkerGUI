@@ -1,0 +1,393 @@
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csprojAssemblyReference.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\MainWindow.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\SerialPortConfig.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\App.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_Content.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_MarkupCompile.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_MarkupCompile.lref
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\NLog.config
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.exe.config
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.exe
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\NLog.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\NLog.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\MainWindow.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\SerialPortConfig.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.g.resources
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.Properties.Resources.resources
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.GenerateResource.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.CoreCompileInputs.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.CopyComplete
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.exe
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\TopMenu.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\TopMenu.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\CylinderOne.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\Home.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\CylinderOne.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\Home.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\CylinderFour.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\CylinderThree.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\CylinderTwo.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\CylinderFour.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\CylinderThree.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\obj\Debug\View\CylinderTwo.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\OxyPlot.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\OxyPlot.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\OxyPlot.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\NLog.config
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.exe.config
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.exe
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\NLog.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\OxyPlot.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\NLog.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\OxyPlot.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\OxyPlot.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csprojAssemblyReference.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\CylinderFour.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\CylinderOne.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\CylinderThree.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\CylinderTwo.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\Home.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\MainWindow.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\SerialPortConfig.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\TopMenu.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\App.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_Content.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_MarkupCompile.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_MarkupCompile.lref
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\CylinderFour.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\CylinderOne.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\CylinderThree.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\CylinderTwo.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\Home.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\MainWindow.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\SerialPortConfig.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\View\TopMenu.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.g.resources
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.Properties.Resources.resources
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.GenerateResource.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.CoreCompileInputs.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.CopyComplete
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.exe
+C:\Users\mechb\source\repos\ParkerCompax3UI-new\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csprojAssemblyReference.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderFour.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderOne.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderThree.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderTwo.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\Home.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\MainWindow.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\SerialPortConfig.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\TopMenu.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\App.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_Content.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_MarkupCompile.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_MarkupCompile.lref
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.exe
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\NLog.config
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.exe.config
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.exe
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\NLog.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\NLog.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderFour.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderOne.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderThree.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderTwo.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\Home.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\MainWindow.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\SerialPortConfig.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\TopMenu.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.g.resources
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.Properties.Resources.resources
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.GenerateResource.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.CoreCompileInputs.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.CopyComplete
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.exe
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\NLog.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\NLog.config
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.exe.config
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\System.Windows.Interactivity.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\NLog.xml
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.pdb
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.xml
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.pdb
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.xml
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.pdb
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.xml
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderFour.g.cs
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderOne.g.cs
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderThree.g.cs
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderTwo.g.cs
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\Home.g.cs
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\MainWindow.g.cs
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\SerialPortConfig.g.cs
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\TopMenu.g.cs
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\App.g.cs
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_Content.g.cs
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_MarkupCompile.cache
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_MarkupCompile.lref
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderFour.baml
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderOne.baml
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderThree.baml
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderTwo.baml
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\Home.baml
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\MainWindow.baml
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\SerialPortConfig.baml
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\TopMenu.baml
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.g.resources
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.Properties.Resources.resources
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.GenerateResource.Cache
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.exe
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.pdb
+G:\Abinash\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csprojAssemblyReference.cache
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderFour.g.cs
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderOne.g.cs
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderThree.g.cs
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderTwo.g.cs
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\Home.g.cs
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\MainWindow.g.cs
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\SerialPortConfig.g.cs
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\TopMenu.g.cs
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\App.g.cs
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_Content.g.cs
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_MarkupCompile.cache
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_MarkupCompile.lref
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.exe
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.pdb
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\NLog.config
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.exe.config
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.exe
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.pdb
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\NLog.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\System.Windows.Interactivity.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\NLog.xml
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.pdb
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.xml
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.pdb
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.xml
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.pdb
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.xml
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderFour.baml
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderOne.baml
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderThree.baml
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\CylinderTwo.baml
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\Home.baml
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\MainWindow.baml
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\SerialPortConfig.baml
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\View\TopMenu.baml
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.g.resources
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.Properties.Resources.resources
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.GenerateResource.cache
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.CoreCompileInputs.cache
+E:\新建文件夹 (4)\ParkerCompax3UI-new-withoutEH\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.CopyComplete
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\NLog.config
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.exe.config
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.exe
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\ParkerCompax3UI.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\NLog.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\OxyPlot.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\NLog.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\OxyPlot.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\OxyPlot.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\CylinderFour.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\CylinderOne.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\CylinderThree.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\CylinderTwo.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\Home.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\MainWindow.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\SerialPortConfig.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\TopMenu.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\App.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_Content.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_MarkupCompile.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\ParkerCompax3UI_MarkupCompile.lref
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\CylinderFour.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\CylinderOne.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\CylinderThree.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\CylinderTwo.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\Home.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\MainWindow.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\SerialPortConfig.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\View\TopMenu.baml
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.g.resources
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.Properties.Resources.resources
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.GenerateResource.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.CoreCompileInputs.cache
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csproj.CopyComplete
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.exe
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.pdb
+C:\Users\mechb\source\repos\ParkerCompax3UI-OnProgress\ParkerCompax3UI\obj\Debug\ParkerCompax3UI.csprojAssemblyReference.cache
